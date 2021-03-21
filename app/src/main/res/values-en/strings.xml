@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyLibrary</string>
+    <string name="imeAutora">Author</string>
+    <string name="nazivKnjige">Book name</string>
+    <string name="slikaNaslovneTekst">Cover picture</string>
+    <string name="nadjiSliku">Find the picture</string>
+    <string name="upisiKnjigu">Add book</string>
+    <string name="ponisti">Cancel</string>
+    <string name="listaKnjiga">List of books</string>
+    <string name="povratak">Return</string>
+    <string name="kategorije">Categories</string>
+    <string name="autori">Authors</string>
+    <string name="pretraga">Search</string>
+    <string name="dodajKategoriju">Add category</string>
+    <string name="dodajKnjigu">Add book</string>
+    <string name="dodajOnline">add book online</string>
+    <string name="preporuci">Recommend</string>
+    <string name="posalji">Send</string>
+</resources>
